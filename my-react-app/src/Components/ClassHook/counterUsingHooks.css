@@ -1,0 +1,15 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+button {
+  border-radius: 1rem;
+  border: black 1px solid;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
